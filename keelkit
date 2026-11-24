@@ -1,0 +1,15 @@
+
+keelkit/
+├── keelkit/
+│   ├── __init__.py
+│   ├── core.py
+│   ├── cli.py
+│   └── gui.py
+├── tests/
+│   └── test_core.py
+├── examples/
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── requirements.txt
+└── .gitignore
